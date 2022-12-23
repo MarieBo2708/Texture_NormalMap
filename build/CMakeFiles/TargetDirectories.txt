@@ -1,0 +1,3 @@
+/media/marie/M1 IMAGINE/M1 MAGINE/P3D/TP/Projet_PBR/textures_nomal_map/template/build/CMakeFiles/tp.dir
+/media/marie/M1 IMAGINE/M1 MAGINE/P3D/TP/Projet_PBR/textures_nomal_map/template/build/CMakeFiles/edit_cache.dir
+/media/marie/M1 IMAGINE/M1 MAGINE/P3D/TP/Projet_PBR/textures_nomal_map/template/build/CMakeFiles/rebuild_cache.dir

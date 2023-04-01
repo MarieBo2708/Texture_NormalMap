@@ -1,0 +1,12 @@
+{
+  "person":
+  {
+    "Nom":"Bocquelet",
+    "Prenom":"Marie",
+    "Age":"27/08/1999",
+    "Tel":"06.40.25.11.02",
+    "Mail":"marie.n.bocquelet@gmail.com",
+    "Interets":"Medecine"
+    
+  }
+}
